@@ -1,7 +1,7 @@
-###---             A basic clock                  ---###
-###---       using Tkinter for the gui            ---###
-###--- using threading as a non blocking timer    ---###
-###---                                            ---###
+###---             A basic python3 clock                  ---###
+###---           using Tkinter for the gui                ---###
+###---    using threading as a non blocking timer         ---###
+###---                                                    ---###
 
 from tkinter import * 
 import threading
